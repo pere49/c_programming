@@ -1,7 +1,7 @@
 ## Overview of C 
 
-**preprocessor directive** -> a C program line beginning with # that provides an instruction to the preprocessor  
-**preprocessor** -> a system program that modifies a C program prior to its compilation
+1. **preprocessor directive** -> a C program line beginning with # that provides an instruction to the preprocessor  
+2. **preprocessor** -> a system program that modifies a C program prior to its compilation
 **library** -> a collection of useful functions and symbols that may be 
 accessed by a program
 
@@ -17,10 +17,9 @@ gram before compilation.
 
 - **reserved word** ->  word that has special meaning in C
 - **standard identifier** -> a word having special meaning but one 
-that a programmer may redefine:
+that a programmer may redefine
 >[!WARNING]
 > Redefinition is not recommended!
-to name memory 
 - **User-Defined Identifiers** -> user chosen names to name memorycells that will hold data and program results and to name operations that we define
 
 | Reserved Words    | Standard Identifiers  | User-Defined Identifiers  |
