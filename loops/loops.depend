@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1745506279 source:c:\users\kevin marimbet\documents\programming\practice\c_programming\get_started\loops\main.c
+	<stdio.h>
+	<stdlib.h>
+
