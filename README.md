@@ -1,10 +1,10 @@
 # Getting started with C programming
 ## Table of content
 
-1. Overview of C language
-2. Selection Structure: If and switch
-3. Repetition and loop statements
-4. Pointers and Array Pointers
+1. [Overview of C language](https://github.com/pere49/c_programming/blob/main/overview_1)
+2. [Selection Structure: If and switch]()
+3. [Repetition and loop statements]()
+4. [Pointers and Array Pointers]()
 
 ## Guide on setting up Code Blocks
 1. Download codeblocks from References section. Ensure it is the mingw version i.e. packaged with the compiler :sunglasses:
